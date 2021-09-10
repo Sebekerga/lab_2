@@ -19,8 +19,4 @@ public class B implements I {
     public long dd() {
         return 33;
     }
-
-    public double ee() {
-        return 500.100;
-    }
 }

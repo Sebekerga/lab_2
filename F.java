@@ -19,8 +19,4 @@ public class F implements I {
     public long dd() {
         return 99999;
     }
-
-    public int af() {
-        return -1;
-    }
 }
