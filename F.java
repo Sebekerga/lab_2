@@ -27,4 +27,8 @@ public class F extends null implements I {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }

@@ -27,4 +27,8 @@ public class B extends null implements I {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public int ae() {
+        return 9;
+    }
 }

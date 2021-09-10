@@ -27,4 +27,8 @@ public class D extends null implements I {
     public int af() {
         return -1;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
