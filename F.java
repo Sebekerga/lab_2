@@ -43,4 +43,8 @@ public class F extends null implements I {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public long ac() {
+        return 333;
+    }
 }

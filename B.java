@@ -43,4 +43,8 @@ public class B extends null implements I {
     public Object rr() {
         return null;
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }

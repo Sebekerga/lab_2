@@ -43,4 +43,8 @@ public class D extends null implements I {
     public Object rr() {
         return null;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
