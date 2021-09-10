@@ -31,4 +31,8 @@ public class F extends null implements I {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

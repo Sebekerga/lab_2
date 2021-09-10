@@ -31,4 +31,8 @@ public class D extends null implements I {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
