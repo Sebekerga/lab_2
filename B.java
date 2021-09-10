@@ -27,4 +27,8 @@ public class B implements I {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }

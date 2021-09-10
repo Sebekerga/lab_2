@@ -27,4 +27,8 @@ public class D implements I {
     public int af() {
         return -1;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
