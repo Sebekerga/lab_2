@@ -35,4 +35,8 @@ public class B extends null implements I {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }

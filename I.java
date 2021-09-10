@@ -11,4 +11,8 @@ public class I extends null {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int cc() {
+        return 39;
+    }
 }
