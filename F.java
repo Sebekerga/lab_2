@@ -47,4 +47,8 @@ public class F extends null implements I {
     public long ac() {
         return 333;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

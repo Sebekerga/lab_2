@@ -47,4 +47,8 @@ public class D extends null implements I {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

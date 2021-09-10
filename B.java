@@ -47,4 +47,8 @@ public class B extends null implements I {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

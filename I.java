@@ -23,4 +23,8 @@ public class I extends null {
     public byte oo() {
         return 1;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
