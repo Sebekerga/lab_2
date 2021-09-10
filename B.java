@@ -23,4 +23,8 @@ public class B implements I {
     public double ee() {
         return 500.100;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
