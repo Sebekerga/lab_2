@@ -1,4 +1,4 @@
-public class B implements I {
+public class B extends null implements I {
 
     private double j = 100.500;
 
@@ -22,5 +22,9 @@ public class B implements I {
 
     public double ee() {
         return 500.100;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
     }
 }

@@ -1,4 +1,4 @@
-public class D implements I {
+public class D extends null implements I {
 
     private long j = 4321;
 
@@ -22,5 +22,9 @@ public class D implements I {
 
     public void bb() {
         System.out.println(getClass().getName());
+    }
+
+    public int af() {
+        return -1;
     }
 }
