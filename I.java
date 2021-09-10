@@ -15,4 +15,8 @@ public class I extends null {
     public int cc() {
         return 39;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
