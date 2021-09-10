@@ -19,4 +19,8 @@ public class D implements I {
     public long dd() {
         return 100500;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
