@@ -1,4 +1,4 @@
-public class B implements I {
+public class B extends null implements I {
 
     private double j = 100.500;
 
@@ -30,5 +30,37 @@ public class B implements I {
 
     public void bb() {
         System.out.println(getClass().getName());
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public long ac() {
+        return 222;
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }
